@@ -27,13 +27,10 @@ Currently looking for a **4-month internship starting September 2026**, with a s
 ## Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bash,asm,cobol)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bash,asm)](https://skillicons.dev)
 
 ### Systems & Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,notion,docker)](https://skillicons.dev)
-
-### Cybersecurity & Networking
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,github)](https://skillicons.dev)
 
 ---
 
@@ -77,13 +74,13 @@ Active TryHackMe player focused on:
 - Website: https://vyvi.fr
 - TryHackMe: https://tryhackme.com/p/Vyvi
 - [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub: https://github.com/vyyvii
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) LinkedIn: https://linkedin.com/in/victor-defauchy
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) LinkedIn: https://linkedin.com/in/victor-defauchy-epitech-lyon
 
 ---
 
 ## Contact
 
-victor.defauchy@epitech.eu
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) victor.defauchy@epitech.eu
 
 ---
 
