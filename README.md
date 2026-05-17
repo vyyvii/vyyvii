@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**vyyvii/vyyvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Victor Defauchy**, a French IT student at :contentReference[oaicite:0]{index=0} based in Lyon 🇫🇷  
+Currently studying in the Grande École Program (PGE) and working as a Business Manager at Taker.
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Cybersecurity
+- Low-level programming
+- Systems & Networks
+- Linux
+- AI projects
+- Open-source & self-hosting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently looking for a **4-month internship starting September 2026**, with a strong interest in **systems security**.
+
+---
+
+## 🚀 About Me
+
+- 🏫 1st year student at Epitech Lyon
+- 🛡️ TryHackMe Top 1%
+- 👨‍💼 Business Manager at Taker
+- 🎓 Class representative & major
+- 🧠 Curious about operating systems, cybersecurity and low-level concepts
+- 🚴 Into climbing, skiing, cycling and astronomy
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bash,asm)](https://skillicons.dev)
+
+### Systems & Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,notion,docker)](https://skillicons.dev)
+
+### Cybersecurity & Networking
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,github)](https://skillicons.dev)
+
+---
+
+## 📌 Featured Projects
+
+### 🖥️ LifeOS
+Minimal operating system written in C and ASM.
+
+- Conway's Game of Life running directly in the OS
+- Memory management
+- Low-level architecture concepts
+- Custom display handling
+
+### 🤖 IApprennons
+AI-powered educational platform built with Python and Ollama APIs.
+
+- Personalized learning system
+- Team management (10 people)
+- AI integration
+- Educational tooling
+
+### 🔐 Cybersecurity Journey
+Active TryHackMe player focused on:
+- Web exploitation
+- Reconnaissance
+- Vulnerability analysis
+- Offensive & defensive security
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vyyvii&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vyyvii&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyyvii&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Links
+
+- 🌍 Website: https://vyvi.fr
+- 💻 GitHub: https://github.com/vyyvii
+- 🔐 TryHackMe: https://tryhackme.com/p/Vyvi
+- 💼 LinkedIn: https://linkedin.com/in/victor-defauchy
+
+---
+
+## 📫 Contact
+
+📧 v.defauchy@mailbox.org
+
+---
+
+> “Low-level code, high-level curiosity.”
